@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(204, 196, 196);
+}
+.form-group{
+    box-sizing: border-box;
+    background-color: orangered;
+    margin-bottom: 15px;
+    
+}
+.name{
+    background-color: aqua;
+
+}
+.description{
+    background-color: rgb(204, 196, 196);
+
+}

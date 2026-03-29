@@ -1,0 +1,24 @@
+
+body{
+    background-color: rgb(128, 234, 234);
+}
+table, th, tr, td{
+    
+    border: 2px solid black;
+    border-collapse: collapse;
+    height: 50px;
+    font-style: italic;
+    word-spacing: normal;
+    border-spacing: 10px;
+}
+h1{
+    color: solid yellowgreen;
+}
+label{
+    font-size: 25px;
+    color: blanchedalmond;
+}
+button{
+    color: green;
+    font-style: italic;
+}
